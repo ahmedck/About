@@ -1,0 +1,20 @@
+{
+  "name": "aboutc",
+  "version": "1.1.0",
+  "dependencies": {
+    
+  },
+  "scripts": {},
+  "description": "OpenBee Portal About Component",
+  "main": "About.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedck/About.git"
+  },
+  "author": "Ahmed Cherif KRID",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedck/About/issues"
+  },
+  "homepage": "https://github.com/ahmedck/About#readme"
+}
