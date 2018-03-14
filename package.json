@@ -2,7 +2,7 @@
   "name": "aboutc",
   "version": "1.1.0",
   "dependencies": {
-    
+    	"react": "^16.2.0"
   },
   "scripts": {},
   "description": "OpenBee Portal About Component",
